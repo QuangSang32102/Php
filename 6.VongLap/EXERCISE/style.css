@@ -1,0 +1,29 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.content{
+	border: 1px solid #999;
+	width: 60%;
+	margin: 0px auto;
+}
+
+.content h1{
+	color: orange;
+	text-align: center;
+} 
+
+.content div.bot{
+	margin-top: 40px;
+}
+
+.content p{
+	text-align: center;
+	margin-top: 10px;
+}
+
+.content div.bot p.f{
+	float: right;
+	font-style: italic;
+}

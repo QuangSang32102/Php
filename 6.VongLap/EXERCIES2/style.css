@@ -1,0 +1,42 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+.content{
+	border: solid 1px #999;
+	width: 60%;
+	margin: 0px auto;
+}
+
+.content h1{
+	text-align: center;
+	color: orange;
+}
+
+.content div.f{
+	margin: 30px 20px;
+}
+
+.content div.l img{
+	background: no-repeat;
+	width: 280px;
+	height: 200px;
+}
+
+.content div.l{
+	float: left;
+}
+
+.content div.r{
+	float: right;
+}
+
+.content div.r input{
+	margin: 30px;
+	padding: 3px 5px;
+}
+
+.content div.s span{
+	padding-left: 150px;
+}

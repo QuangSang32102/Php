@@ -1,0 +1,20 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.content{
+	width: 800px;
+	min-height: 200px;
+	margin: 0px auto;
+	border: 1px solid #999;
+	background-image: url("img/open-notebook-beautiful.jpg");
+}
+
+.content ul{
+	margin: 10px auto auto 100px;
+}
+
+.content ul li{
+	list-style: decimal;
+}

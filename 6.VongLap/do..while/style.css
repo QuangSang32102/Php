@@ -1,0 +1,38 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.content{
+	margin: 0px auto;
+	border: 1px solid black;
+	width: 300px;
+}
+
+.content h1{
+	color: orange;
+	text-align: center;
+}
+
+.content div.image{
+	margin: 20px 0px;
+	text-align: center;
+}
+
+.content div.image img{
+	width: 220px;
+	height: 220px;
+
+}
+
+.content div.image a{
+	background-color: #686f97;
+	display: block;
+	margin: 0px auto;
+	color: white;
+	width: 100px;
+}
+
+.content div.image a:hover{
+	color: yellow;
+}
