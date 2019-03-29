@@ -37,9 +37,9 @@
 		foreach ($student as $key => $value) {
 			$name = $value["name"];
 			$sex  = ($value["sex"] == 1) ? "Male" : "Female";
-			$score = $value["score"];
+/*			$score = $value["score"];
 
-/*			$total = 0;
+			$total = 0;
 			for ($i=0; $i < count($score); $i++) { 
 				$total += $score[$i];
 			}*/
