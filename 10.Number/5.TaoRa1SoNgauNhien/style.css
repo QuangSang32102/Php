@@ -1,0 +1,40 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.content{
+	margin: 20px auto;
+	width: 550px;
+	border: 1px solid #999;
+	padding: 10px;
+	text-align: center;
+}
+
+.content h1{
+	text-align: center;
+	color: orange;
+}
+
+.content div.image{
+	margin: 20px 0px;
+	text-align: center;
+}
+
+.content div.image img{
+	margin: 10px 0px;
+	width: 400px;
+	height: 300px;
+}
+
+.content a{
+	display: inline-block;
+	padding: 3px 10px;
+	background: #686f97;
+	text-decoration: none;
+	color: #fff;
+}
+
+.content a:hover{
+	color: #f6f312;
+}

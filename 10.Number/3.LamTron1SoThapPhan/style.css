@@ -1,0 +1,32 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.content{
+	margin: 20px auto;
+	width: 550px;
+	border: 1px solid #999;
+	padding: 10px;
+}
+
+.content h1{
+	text-align: center;
+	color: orange;
+}
+
+.content ul.function{
+	margin-top: 20px;
+	list-style: inside;
+	text-align: justify;
+}
+
+.content ul.function li{
+	line-height: 30px;
+}
+
+.content ul.function span{
+	display: inline-block;
+	width: 350px;
+	font-weight: bold;
+}
