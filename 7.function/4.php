@@ -10,7 +10,7 @@
 		<?php 
 			function checkNumber($value){
 				echo $value . "<br>";
-				if ($value %12 == 0) {
+				if ($value %2 == 0) {
 					return true;
 				}
 				else{

@@ -1,0 +1,7 @@
+<script type="text/javascript">
+	alert("Hello World");
+</script>	
+<p>"Thường vụ huyện ủy đã ngay lập tức tổ chức cuộc họp và cử các đồng chí xuống thăm và động viên cháu và gia đình", ông Học cho hay.</p>
+<p>Cũng trong tối cùng ngày, ông Lê Hồng Dơn, Phó Chủ tịch UBND huyện Kim Động, người được phân công đến thăm cháu bé cho hay nạn nhân bị thương tương đối nghiêm trọng.</p>
+<p>"Sự việc xảy ra vào tối cùng ngày tại sân vận động Thị trấn Lương Bằng, nạn nhân nhà ngay gần nơi xảy ra sự việc. Chúng tôi được UBND Thị trấn Lương Bằng báo tin vào khoảng gần 21h", ông Dơn thông tin.</p>
+<p>Theo ông Dơn, chính quyền huyện và chính quyền thị trấn đã ủng hộ 12 triệu để hỗ trợ gia đình cháu bé, tình trạng vết thương cụ thể vẫn chưa được xác định. Dù đã được người dân xung quanh lao tới giải cứu cháu bé ngay lập tức nhưng nạn nhân vẫn bị đàn chó cắn, cào nhiều nơi trên cơ thể. Chưa rõ cụ thể số lượng chó đã tấn công cháu bé.</p>

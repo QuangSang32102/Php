@@ -19,7 +19,7 @@
 				//echo $value;
 				//
 				//Cach 2
-				echo $GLOBALS["value"];
+				echo $GLOBALS["value"];// Hàm $GLOBALS[] dùng để gọi các giá trị nằm ở biến toàn cục
 				return $result;
 			}
 			$boxA = createBox("Box A");
